@@ -56,7 +56,7 @@ main .TextoCelularInicio h1 {
   font-size: 60px;
 }
 main .TextoCelularInicio p {
-  text-align: justify left;
+  text-align: justify center;
   font-size: 25px;
 }
 section {
@@ -80,7 +80,7 @@ section img {
   font-size: 60px;
 }
 .contenedor .texto p {
-  text-align: justify left;
+  text-align: justify center;
   font-size: 25px;
 }
 .contendor .final {
