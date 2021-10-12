@@ -56,7 +56,7 @@ main .TextoCelularInicio h1 {
   font-size: 60px;
 }
 main .TextoCelularInicio p {
-  text-align: left;
+  text-align: justify left;
   font-size: 25px;
 }
 section {
