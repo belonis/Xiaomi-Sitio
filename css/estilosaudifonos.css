@@ -72,7 +72,8 @@ section img {
   grid-gap: 40px;
 }
 .contenedor .texto {
-  width: 620px;
+  width: 920px;
+  padding: 0px 20px 0px 0px;
 }
 .contenedor .texto h1 {
   text-align: center;
